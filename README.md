@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @erfanator
 - 👀 I’m interested in astronomy 
-- 🌱 I’m currently learning the science of boxing 
-- 💞️ I’m looking to collaborate on nobody.
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on n-body.
 - 📫 How to reach me islam.erfanul@gmail.com
 
 <!---
